@@ -1,0 +1,28 @@
+name: focal
+favicon: null
+layout_spectrum: 0.8604430828709155
+typography_spectrum: 0.640090016881004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.34286890807561576
+  lightness: 0.35044368216767907
+  saturation: 0.5642070169560611
+  rhythmicContrast: 0.6096606233622879
+purpose: []
